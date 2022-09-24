@@ -1,6 +1,6 @@
 <h1>Easy Shopping via Mobile<h1> 
 
-<h3>Projeto feito tendo de referência a utilização de meios digitais como a principal fonte de comercialização!<h3>
+<h3>Projeto feito tendo de referência a utilização dos meios digitais como a principal fonte de negócios e serviços!<h3>
 
 <h3>Realizado com os ensinamentos do professor Rodolfo Mori no <a href="https://rodolfomori.com.br/devclub">DevClub</a><h3>
 <br>
